@@ -5,6 +5,7 @@ A toolkit to implement segmentation on speech based on BIC and nerual network, s
 - Python>=3.6
 - tensorflow=1.13.1
 - keras=2.2.4
+- h5py==2.10.0
 - Librosa
 - Numpy
 - Scipy
